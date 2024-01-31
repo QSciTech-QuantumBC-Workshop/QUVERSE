@@ -1,0 +1,14 @@
+GitPython
+graphviz
+ipykernel
+jupyterlab
+matplotlib
+numpy
+pylatexenc
+scikit-learn
+qiskit==0.45.1
+qiskit-aer==0.13.2
+qiskit-algorithms==0.2.1
+qiskit-ibm-provider==0.8.0
+qiskit-ibm-runtime==0.17.0
+qiskit-machine-learning==0.7.1
