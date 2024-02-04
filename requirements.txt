@@ -1,3 +1,4 @@
+ffmpeg-python==0.2.0
 GitPython
 graphviz
 ipykernel
@@ -6,6 +7,9 @@ matplotlib
 numpy
 pylatexenc
 scikit-learn
+torch==2.2.0
+torchmetrics==1.3.0.post0
+tqdm==4.66.1
 qiskit==0.45.1
 qiskit-aer==0.13.2
 qiskit-algorithms==0.2.1
